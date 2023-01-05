@@ -1,3 +1,5 @@
+### Hello, I'm Isaac!
+
 He/Him
 
 I am currently a *sophomore at Harvey Mudd College* who is pursuing a Bachelor's Degree in the field of **Computer Science** 💻. I am also studying (concentrating) in **Economics** 📈.
