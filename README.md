@@ -8,7 +8,7 @@ I am currently a *sophomore at Harvey Mudd College* who is pursuing a Bachelor's
 
 **Goal/Vision**: I wish to utilize my computational intelligence, skillset, and repertoire to make a positive, lasting change in our society. 
 
-**What I am currently looking for**: an internship or research position in the field of Computer Science. I am looking for a group of innovative, creative, and inspiring talent that can provide me real-world technical experiences. I wish to join a team that can support me to accomplishing my dream: to combine my passions for Computer Science and supporting others in need to change the world for the better.
+**What I am currently looking for**: an internship or research position in the field of Computer Science. I am looking for a group of innovative, creative, and inspiring talent that can provide me real-world technical experiences. I wish to join a team that can support me to accomplish my dream: to combine my passions for Computer Science and supporting others in need to change the world for the better.
 
 **Computer Skills** 🧠
 1. *Programming Languages*: Python, Java, C++, HTML, CSS, JavaScript, LaTeX, and Racket 
