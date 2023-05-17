@@ -19,18 +19,19 @@ I am currently a *rising junior at Harvey Mudd College* who is pursuing a Bachel
 1. Undergradate Researcher for Krauss Lab Tribology | Claremont, CA | 10/2022 - 05/2023
 2. Software Developer for MuddSub: HMC RoboSub Team | Claremont, CA | 10/2022 - Present
 3. Computer Science, Mathematics, and Physics Grader and Tutor | Claremont, CA | 9/2022 - Present
-4. Mentor for Gateway for Exploring Mathematical Sciences (GEMS) | Claremont, CA | 10/2022 - Present
-5. Business Manager for Online Marketing through Etsy | Los Angeles, CA | 6/2022 - 8/2022
-6. Lead Software Developer for the MakeSPP 2020 Hackathon - Online Project | Los Angeles, CA | 10/2020
+4. Lead Software Developer for the MakeSPP 2020 Hackathon - Online Project | Los Angeles, CA | 10/2020
+5. Mentor for Gateway for Exploring Mathematical Sciences (GEMS) | Claremont, CA | 10/2022 - Present
+6. Business Manager for Online Marketing through Etsy | Los Angeles, CA | 6/2022 - 8/2022
 7. T. Howard Final Talent Pool Member | 1/2023 - Present
 8. Member of the Korean Scientists and Engineers Association Club | Claremont, CA | 8/2021 - Present
 
 **Projects** 🤓
-1. Weather App Webpage
-2. Sports Betting Model
-3. Spampede - Custom Snake Game
-4. Message Encryption Through Pixelation
-5. Face Detection Simulator
-6. Many More on my Repo!
+1. Krauss Lab Tribology Image Processing Simulator
+2. Weather App Webpage
+3. Sports Betting Model
+4. Spampede - Custom Snake Game
+5. Message Encryption Through Pixelation
+6. Face Detection Simulator
+7. Many More on my Repo!
 
 To those who are intrigued by my vision, experiences, and skillset, please feel free to contact me! My contact details are in my profile 😁.
