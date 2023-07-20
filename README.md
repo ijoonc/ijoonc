@@ -4,7 +4,7 @@ He/Him
 
 I am currently a *rising junior at Harvey Mudd College* who is pursuing a Bachelor's Degree in the field of **Computer Science** 💻. I am also studying (concentrating) in **Economics** 📈.
 
-**GPA**: 3.86; Dean's List: Spring 2022 - Spring 2023; Expected to Graduate in *May 2025*.
+**GPA**: 3.905; Dean's List: Spring 2022 - Spring 2023; Expected to Graduate in *May 2025*.
 
 **Goal/Vision**: I wish to utilize my computational intelligence, skillset, and repertoire to make a positive, lasting change in our society. 
 
