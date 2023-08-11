@@ -18,7 +18,7 @@ I am looking for a group of innovative, creative, and inspiring talent that can 
 3. *Technical Skills*: Software Development, Machine Learning, Computer Vision, Neural Networks, PyTorch, TensorFlow, NumPy, Algorithms, API Utilization, Image Processing, Data Visualization, Data Science, OOP, and Web Development
 
 **Experiences** 🏃
-1. Research Intern for LACE Lab | Claremont, CA | 05/2023 - 07/2023
+1. Research Intern for Learning Agents in Complex Environments (LACE) Lab | Claremont, CA | 05/2023 - 07/2023
 2. Research Intern for Krauss Lab Tribology | Claremont, CA | 10/2022 - 05/2023
 3. Software Developer for MuddSub: HMC RoboSub Team | Claremont, CA | 10/2022 - 05/2023
 4. Computer Science and Mathematics Grader and Tutor | Claremont, CA | 9/2022 - Present
