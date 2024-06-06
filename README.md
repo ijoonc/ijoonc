@@ -1,42 +1,39 @@
 ### Hello, I'm Isaac!
 
-He/Him
+I am a software engineer intern, developer, programmer, and student at Harvey Mudd College. My dream is to utilize my computational intelligence, skill-set, and inner drive to make positive, lasting changes in our society through technology. I have professional experience in software development & testing, machine learning, computer vision, artificial intelligence, and object-oriented programming as shown by my internship and research endeavors. I am also a freelance developer and I love to learn. I create projects that spark innovation, creativity, and fun!
 
-I am currently a *junior at Harvey Mudd College* who is pursuing a Bachelor's Degree in the field of **Computer Science** 💻. I am also studying (concentrating) in **Economics** 📈.
-
-**GPA**: 3.905; Dean's List: Spring 2022 - Spring 2023; Expected to Graduate in *May 2025*.
-
-**Goal/Vision**: I wish to utilize my computational intelligence, skillset, and repertoire to make a positive, lasting change in our society. 
-
-**What I am currently looking for**: an internship or research position in the field of Computer Science. 
-
-I am looking for a group of innovative, creative, and inspiring talent that can guide me towards gaining real-world technical experiences. I wish to join a team that can help me accomplish my dream: to combine my passions for Computer Science and supporting others in need to change the world for the better.
+Upon graduation, I plan to look for a group of innovative, motivational, and inspiring talent that focuses on changing the world for the better through the monumental wave of technology and AI.
 
 **Computer Skills** 🧠
-1. *Programming Languages*: Python, C++, Java, R, JavaScript, React, HTML, CSS, Prolog, and Racket 
-2. *Software*: Visual Studio, Jupyter, Google Colab, Github, Git, LaTeX, RStudio, Docker, and Excel
-3. *Technical Skills*: Software Development, Machine Learning, Computer Vision, Neural Networks, PyTorch, TensorFlow, NumPy, Algorithms, API Utilization, Image Processing, Data Visualization, Data Science, OOP, and Web Development
+1. *Programming Languages*: Python, C++, Java, C, R, JavaScript, React, HTML, CSS, SQL, and Haskell
+2. *Software*: Visual Studio, GitHub, Git, Unix/Linux, LaTeX, RStudio, Docker, Kubernetes, Kafka, Angular, Jupyter, and Eclipse
+3. *Technical Skills*: Software Development & Testing, Machine Learning, Computer Vision, Artificial Intelligence, Neural Networks, Data Science, Reinforcement Learning, Algorithms, Data Structures, Object-Oriented Programming, Web Development
+
+**Relevant Coursework** 📖
+1. Algorithms/Data Structures (Python, C++)
+2. Neural Networks, Computing Practices (Python)
+3. Computer Systems (C)
+4. Database Systems (SQL, Java)
+5. Programming Languages (Haskell)
+6. Data Science and Statistical Learning, Probability and Statistics (R)
+7. Discrete Mathematics, Linear Algebra, Single and Multivariable Calculus
+8. Engineering Systems
 
 **Experiences** 🏃
-1. Research Intern for Lab for CATS (Cognition and Attention in Time and Space) | Claremont, CA | 09/2023 - Present
-1. Research Intern for LACE (Learning Agents in Complex Environments) Lab | Claremont, CA | 05/2023 - 07/2023
-2. Research Intern for Krauss Lab Tribology | Claremont, CA | 10/2022 - 05/2023
-3. Software Developer for MuddSub: HMC RoboSub Team | Claremont, CA | 10/2022 - 05/2023
-4. Computer Science and Mathematics Grader and Tutor | Claremont, CA | 9/2022 - Present
-5. Lead Software Developer for the MakeSPP 2020 Hackathon - Online Project | Los Angeles, CA | 10/2020
-6. Mentor for Gateway for Exploring Mathematical Sciences (GEMS) Program | Claremont, CA | 10/2022 - Present
-7. Business Manager for Online Marketing through Etsy | Los Angeles, CA | 6/2022 - 8/2022
-8. T. Howard Final Talent Pool Member | 1/2023 - Present
-9. Member of the Korean Scientists and Engineers Association Club | Claremont, CA | 8/2021 - Present
+1. Software Engineer Intern @ BlackRock | San Francisco, CA | 06/2024 - Present
+2. Research Intern @ Lab for Cognition and Attention in Time and Space | Claremont, CA | 09/2023 - 05/2024
+3. Research Intern @ Learning Agents in Complex Environments Lab | Claremont, CA | 05/2023 - 07/2023
+4. Research Intern @ Krauss Lab Tribology | Claremont, CA | 10/2022 - 05/2023
+5. Software Developer @ MuddSub: HMC RoboSub Team | Claremont, CA | 10/2022 - 05/2023
 
 **Projects** 🤓
-1. Portfolio | Personal Website
-2. Krauss Lab Tribology Image Processing Simulator
-3. Weather App Webpage
-4. Sports Betting Model
-5. Spampede - Custom Snake Game
-6. Message Encryption Through Pixelation
-7. Face Detection Simulator
+1. Personalized Spotify Wrapped | 08/2023 - 12/2023
+2. Real-Time Object Detection Software | 08/2023 - 12/2023
+3. Online Portfolio (Personal Website) | 05/2023 - 08/2023
+4. Krauss Lab Tribology Image Processing Simulator | 10/2022 - 05/2023
+5. Weather App Webpage | 12/2022 - 01/2023
+6. Sports Betting Model | 07/2022 - 08/2022
+7. Spampede - Custom Snake Game | 12/2022
 8. Many More on my Repo!
 
-To those who are intrigued by my vision, experiences, and skillset, please feel free to contact me! My contact details are in my profile 😁.
+For those who are intrigued by my vision and experiences, please feel free to contact me! My contact details are in my profile.
