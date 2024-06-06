@@ -7,7 +7,7 @@ Upon graduation, I plan to look for a group of innovative, motivational, and ins
 **Computer Skills** 🧠
 1. *Programming Languages*: Python, C++, Java, C, R, JavaScript, React, HTML, CSS, SQL, and Haskell
 2. *Software*: Visual Studio, GitHub, Git, Unix/Linux, LaTeX, RStudio, Docker, Kubernetes, Kafka, Angular, Jupyter, and Eclipse
-3. *Technical Skills*: Software Development & Testing, Machine Learning, Computer Vision, Artificial Intelligence, Neural Networks, Data Science, Reinforcement Learning, Algorithms, Data Structures, Object-Oriented Programming, Web Development
+3. *Technical Skills*: Software Development & Testing, Machine Learning, Computer Vision, Artificial Intelligence, Neural Networks, Data Science, Reinforcement Learning, Algorithms, Data Structures, Object-Oriented Programming, and Web Development
 
 **Relevant Coursework** 📖
 1. Algorithms/Data Structures (Python, C++)
