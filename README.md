@@ -32,8 +32,8 @@ Upon graduation, I plan to look for a group of innovative, motivational, and ins
 3. Online Portfolio (Personal Website) | 05/2023 - 08/2023
 4. Particle (GSG) Image Processing Simulator | 10/2022 - 05/2023
 5. Weather App | 12/2022 - 01/2023
-6. Sports Betting Model | 07/2022 - 08/2022
-7. Spampede - Custom Snake Game | 12/2022
+6. Spampede - Custom Snake Game | 12/2022
+7. Sports Betting Model | 07/2022 - 08/2022
 8. Many More on my Repo!
 
 For those who are intrigued by my vision and experiences, please feel free to contact me! My contact details are in my profile.
