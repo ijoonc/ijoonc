@@ -20,7 +20,7 @@ Upon graduation, I plan to look for a group of innovative, motivational, and ins
 8. Engineering Systems
 
 **Experiences** 🏃
-1. Contract Software Engineer @ Tradeweb | Claremont, CA | 08/2024 - Present
+1. Contract Software Engineer @ Tradeweb | Remote | 08/2024 - Present
 2. Software Engineer Intern @ BlackRock | San Francisco, CA | 06/2024 - 08/2024
 3. Research Intern @ Lab for Cognition and Attention in Time and Space | Claremont, CA | 09/2023 - 05/2024
 4. Research Intern @ Learning Agents in Complex Environments Lab | Claremont, CA | 05/2023 - 07/2023
