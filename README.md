@@ -7,7 +7,7 @@ Upon graduation, I plan to look for a group of innovative, motivational, and ins
 **Computer Skills** 🧠
 1. *Programming Languages*: Python, C++, Java, C, R, JavaScript, React, HTML, CSS, SQL, and Haskell
 2. *Software*: Visual Studio, GitHub, Git, Unix/Linux, LaTeX, RStudio, Docker, Kubernetes, Kafka, Azure, Jupyter, and Eclipse
-3. *Technical Skills*: Software Development & Testing, Machine Learning, Computer Vision, Artificial Intelligence, Neural Networks, Data Science, NLP, API Programming, Algorithms, Data Structures, Object-Oriented Programming, and Web Development
+3. *Technical Skills*: Software Development & Testing, Machine Learning, Artificial Intelligence, Neural Networks, Data Science, Version Control, API/SDK Programming, NLP, Algorithms, Data Structures, Object-Oriented Programming, and Web Development
 
 **Relevant Coursework** 📖
 1. Algorithms/Data Structures (Python, C++)
@@ -20,11 +20,12 @@ Upon graduation, I plan to look for a group of innovative, motivational, and ins
 8. Engineering Systems
 
 **Experiences** 🏃
-1. Software Engineer Intern @ BlackRock | San Francisco, CA | 06/2024 - Present
-2. Research Intern @ Lab for Cognition and Attention in Time and Space | Claremont, CA | 09/2023 - 05/2024
-3. Research Intern @ Learning Agents in Complex Environments Lab | Claremont, CA | 05/2023 - 07/2023
-4. Research Intern @ Krauss Lab Tribology | Claremont, CA | 10/2022 - 05/2023
-5. Software Developer @ MuddSub: HMC RoboSub Team | Claremont, CA | 10/2022 - 05/2023
+1. Contract Software Engineer @ Tradeweb | Claremont, CA | 08/2024 - Present
+2. Software Engineer Intern @ BlackRock | San Francisco, CA | 06/2024 - 08/2024
+3. Research Intern @ Lab for Cognition and Attention in Time and Space | Claremont, CA | 09/2023 - 05/2024
+4. Research Intern @ Learning Agents in Complex Environments Lab | Claremont, CA | 05/2023 - 07/2023
+5. Research Intern @ Krauss Lab Tribology | Claremont, CA | 10/2022 - 05/2023
+6. Software Developer @ MuddSub: HMC RoboSub Team | Claremont, CA | 10/2022 - 05/2023
 
 **Projects** 🤓
 1. Personalized Spotify Wrapped | 08/2023 - 12/2023
