@@ -1,8 +1,8 @@
 ### Hello, I'm Isaac!
 
-I am a software engineer intern, developer, programmer, and student at Harvey Mudd College. My dream is to utilize my computational intelligence, skill-set, and inner drive to make positive, lasting changes in our society through technology. I have professional experience in software development & testing, machine learning, computer vision, artificial intelligence, and object-oriented programming as shown by my internship and research endeavors. I am also a freelance developer and I love to learn. I create projects that spark innovation, creativity, and fun!
+I am a software engineer, developer, programmer, and student at Harvey Mudd College. I am majoring in Computer Science with a concentration in Economics. My dream is to utilize my computational intelligence, skill-set, and inner drive to make positive, lasting changes in our society through technology. I have experience in software development & testing, machine learning, artificial intelligence, algorithms, and object-oriented programming as shown by my professional endeavors. I am also a freelance developer and I love to learn. I create projects that spark innovation, creativity, and fun!
 
-Upon graduation, I plan to look for a group of innovative, motivational, and inspiring talent that focuses on changing the world for the better through the monumental wave of technology and AI.
+Upon graduation, I plan to look for a group of innovative, motivational, and inspiring talent that focuses on changing the world for the better through the monumental wave of technology and AI. For those who are intrigued by my vision and experiences, please feel free to reach out!
 
 **Computer Skills** 🧠
 1. *Programming Languages*: Python, C++, Java, C, R, JavaScript, React, HTML, CSS, SQL, and Haskell
